@@ -1,3 +1,5 @@
+@import url("https://fonts.googleapis.com/css2?family=Anton&display=swap");
+
 :root {
   --cor0: #015052;
   --cor1: #03989e;
@@ -7,7 +9,7 @@
 }
 
 * {
-  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  font-family: "Anton";
   padding: 0;
   margin: 0;
   box-sizing: border-box;
