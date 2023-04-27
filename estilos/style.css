@@ -1,0 +1,27 @@
+:root {
+  --cor0: #015052;
+  --cor1: #03989e;
+  --cor2: #1ce5eb;
+  --cor3: #ff914d;
+  --cor4: #9e3f03;
+}
+
+* {
+  padding: 0;
+  margin: 0;
+}
+
+.header {
+  background-color: var(--cor0);
+  display: flex;
+  justify-content: center;
+}
+
+.logo-icon {
+  width: 40px;
+  height: 40px;
+}
+
+.logo-hor {
+  width: 200px;
+}
