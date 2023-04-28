@@ -51,3 +51,13 @@
 .buttonHeader:hover {
   border-color: var(--cor3);
 }
+
+@media (max-width: 320px) {
+  .buttonHeader {
+    font-size: 14px;
+  }
+
+  .header {
+    width: 100vw;
+  }
+}
